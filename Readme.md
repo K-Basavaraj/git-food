@@ -11,4 +11,9 @@
 * karam 
 * Dosa Flour
 
+# Panner masala Dosa 
+* Dosa Batter
+* panner 
+* ghee
+* cashew 
 
